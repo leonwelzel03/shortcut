@@ -1,0 +1,308 @@
+{
+  "Version": "3.3",
+  "Languages": {
+    "RU": "🇷🇺 Русский",
+    "US": "🇺🇸 English",
+    "DE": "🇩🇪 German",
+    "CH": "🇨🇳 Chinese S.",
+    "ZH": "🇨🇳 Chinese T.",
+    "DK": "🇩🇰 Danish",
+    "FR": "🇫🇷 Français"
+  },
+  "Strings": {
+    "menu.settings": {
+      "US": "Settings",
+      "RU": "Настройки",
+      "DE": "Einstellungen",
+      "CH": "设定",
+      "ZH": "設定",
+      "DK": "Indstillinger",
+      "FR": "Options"
+    },
+    "settings.language": {
+      "US": "Shortcut Language",
+      "RU": "Язык команды",
+      "DE": "Sprache",
+      "CH": "语言",
+      "ZH": "語言",
+      "DK": "Sprog",
+      "FR": "Langue du raccourci"
+    },
+    "language.help": {
+      "US": "Help Us Translate",
+      "RU": "Помощь в переводе",
+      "DE": "Hilf uns übersetzen",
+      "CH": "帮助翻译",
+      "ZH": "幫助翻譯",
+      "DK": "Hjælp os med at oversætte",
+      "FR": "Aidez-nous à traduire !"
+    },
+    "settings.credits": {
+      "US": "Credits",
+      "RU": "Благодарности",
+      "DE": "Danke an",
+      "CH": "感谢",
+      "ZH": "感謝",
+      "DK": "Credits",
+      "FR": "Merci !"
+    },
+    "settings.feedback": {
+      "US": "Feedback",
+      "RU": "Обратная связь",
+      "DE": "Feedback",
+      "CH": "回报问题",
+      "ZH": "回報問題",
+      "DK": "Feedback",
+      "FR": "Commentaires"
+    },
+    "menu.back": {
+      "US": "Back",
+      "RU": "Назад",
+      "DE": "",
+      "CH": "返回",
+      "ZH": "返回",
+      "DK": "",
+      "FR": "Retour"
+    },
+    "menu.prev": {
+      "US": "Back",
+      "RU": "Назад",
+      "DE": "",
+      "CH": "返回",
+      "ZH": "返回",
+      "DK": "",
+      "FR": "Retour"
+    },
+    "menu.next": {
+      "US": "Next Page",
+      "RU": "След. страница",
+      "DE": "Nächste Seite",
+      "CH": "下一頁",
+      "ZH": "下一頁",
+      "DK": "",
+      "FR": "Page suivante"
+    },
+    "menu.available": {
+      "US": "Available Updates",
+      "RU": "Доступные обновления",
+      "DE": "",
+      "CH": "可用的更新",
+      "ZH": "可用的更新",
+      "DK": "Tilgængelige Opdateringer",
+      "FR": "Mises à jour disponibles"
+    },
+    "menu.supported": {
+      "US": "Supported Shortcuts",
+      "RU": "Поддерживаемые команды",
+      "DE": "",
+      "CH": "支持的捷径",
+      "ZH": "支持的捷徑",
+      "DK": "",
+      "FR": "Raccourcis supportés"
+    },
+    "changelog.update": {
+      "US": "An update is available!",
+      "RU": "Доступно обновление!",
+      "DE": "Eine neue Version ist verfügbar!",
+      "CH": "有可用更新",
+      "ZH": "有可用更新",
+      "DK": "En opdatering er tilgængelig!",
+      "FR": "Une mise à jour est disponible !"
+    },
+    "changelog.noupdate": {
+      "US": "No Updates!",
+      "RU": "Нет обновлений!",
+      "DE": "Keine neue Version verfügbar!",
+      "CH": "没有可用更新",
+      "ZH": "沒有可用更新",
+      "DK": "Ingen opdateringer!",
+      "FR": "Aucune mise à jour !"
+    },
+    "changelog.name": {
+      "US": "Name",
+      "RU": "Название",
+      "DE": "Name",
+      "CH": "名称",
+      "ZH": "名稱",
+      "DK": "Navn",
+      "FR": "Nom"
+    },
+    "changelog.version": {
+      "US": "Version",
+      "RU": "Версия",
+      "DE": "Version",
+      "CH": "版本",
+      "ZH": "版本",
+      "DK": "Version",
+      "FR": "Version"
+    },
+    "changelog.changes": {
+      "US": "Changes",
+      "RU": "Изменения",
+      "DE": "Änderungen",
+      "CH": "更改",
+      "ZH": "更改",
+      "DK": "Ændringer",
+      "FR": "Modifications"
+    },
+    "changelog.import": {
+      "US": "Update",
+      "RU": "Обновить",
+      "DE": "",
+      "CH": "更新",
+      "ZH": "更新",
+      "DK": "Opdater",
+      "FR": "Mettre à jour"
+    },
+    "info.noconnection": {
+      "US": "No Internet Connection!",
+      "RU": "Нет подключения к интернету!",
+      "DE": "",
+      "CH": "没有网路连接",
+      "ZH": "沒有網路連接",
+      "DK": "",
+      "FR": "Aucune connexion internet !"
+    },
+    "settings.items": {
+      "US": "Apps Per Page",
+      "RU": "Кол-во приложений",
+      "DE": "",
+      "CH": "每頁捷徑數目",
+      "ZH": "每頁捷徑數目",
+      "DK": "",
+      "FR": "Applications par page"
+    },
+    "info.wait": {
+      "US": "Checking for updates may take some time...",
+      "RU": "Проверка обновлений может занять некоторое время...",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
+    },
+    "settings.check": {
+      "US": "Time of Check",
+      "RU": "Время проверки",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
+    },
+    "check.subtitle": {
+      "US": "Check updates every N days",
+      "RU": "Проверять обновления каждые N дней",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
+    },
+    "menu.all": {
+      "US": "Update All",
+      "RU": "Обновить все",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
+    },
+    "changelog.translate": {
+      "US": "Translated",
+      "RU": "Переведено",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
+    },
+    "changelog.default": {
+      "US": "Default",
+      "RU": "По умолчанию",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
+    },
+    "settings.translate": {
+      "US": "Translate Changelog",
+      "RU": "Переводить изменения",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
+    },
+    "translate.subtitle": {
+      "US": "Translate changes on Shortcut Language",
+      "RU": "Переводить изменения на язык команды",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
+    },
+    "menu.yes": {
+      "US": "Yes",
+      "RU": "Да",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
+    },
+    "menu.no": {
+      "US": "No",
+      "RU": "Нет",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
+    },
+    "settings.general": {
+      "US": "General",
+      "RU": "Основные",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
+    },
+    "settings.other": {
+      "US": "Other",
+      "RU": "Другие",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
+    },
+    "settings.info": {
+      "US": "About",
+      "RU": "О команде",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
+    },
+    "info.text": {
+      "US": "The Shortcuts Updater is an add-on Shortcut that you can use to check and install updates for your Shortcuts.<p>The Shortcuts Updater is an official Shortcut, specifically for ShareShortcuts.com. When you upload a new version of the Shortcut to the site, it automatically delivers the update to all people around the world!",
+      "RU": "Shortcuts Updater - это команда-дополнение, которую вы можете использовать для проверки и установки обновлений для ваших команд.<p>Shortcuts Updater является оффициальной командой, специально для ShareShortcuts.com. Когда вы загружаете новую версию команды на сайт, он автоматически доставляет обновление всем людям по всему свету!",
+      "DE": "",
+      "CH": "",
+      "ZH": "",
+      "DK": "",
+      "FR": ""
+    }
+  },
+  "Credits": {
+    "Daniel Bahl (Made ShareShortcuts)": "https://twitter.com/danielbahl",
+    "hEv@Der (German Language)": "https://twitter.com/hEvDer1",
+    "XPGamingYT (Chinese Language)": "https://www.reddit.com/u/XPGamingYT",
+    "TortueGeniale (French Language)": "https://twitter.com/TortueGeniale"
+  }
+}
