@@ -1,7 +1,0 @@
-{
-    "Version": "5.0.1",
-    "Notes": "This is likely the last iOS 12 release of UpdateKit. This is a \u201cbridge\u201d update with a revised updating system that will be necessary to get UpdateKit for iOS 13 when that OS is released to the public.",
-    "URL": "https:\/\/www.icloud.com\/shortcuts\/0d78a4b7ffee4bafafdc1fbec4e873a1",
-    "Release": "September 2, 2019",
-    "iOS": "12"
-}
